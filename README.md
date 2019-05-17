@@ -1,1 +1,1 @@
-# naive-Bayesian-Chinese-word-segmentation
+# naive-Bayesian
